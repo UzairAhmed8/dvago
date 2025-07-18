@@ -178,7 +178,7 @@
 }
 
 .gif{
-    width: max-content;
+    width: 100%;
 }
 
 .itemcon{
@@ -188,6 +188,7 @@
     justify-content: space-evenly;
     padding: 0 160px;
     border-radius: 15px;
+    flex-wrap: wrap;
 }
 
 .item-cons-sec6 img{
